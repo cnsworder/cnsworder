@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Linux & CPP & Go & python
+- :orange_book: Focusing on Linux & CPP & Go & Rust & python
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the cnsworder
 - :meat_on_bone: Meat lover
